@@ -1,3 +1,3 @@
 # AIinNLPNanoDegree
 
-Course work for AI in Healthcare Nanodegree
+Course work for AI in NLP Nanodegree
